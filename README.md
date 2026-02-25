@@ -32,8 +32,8 @@ Saint-Germain-en-Laye, France · [LinkedIn](https://www.linkedin.com/in/didier-b
 
 | Project | Description | Stack |
 |---|---|---|
-| [voxen](https://github.com/didierdbo/voxen) | Voice/audio processing project | Python |
-| [green-search-engine](https://github.com/didierdbo/green-search-engine) | Eco-aware search engine concept | Python |
+| [sentiment-project](https://github.com/didierdbo/sentiment-project) | Production-ready sentiment analysis platform: ML model serving, REST API, Kubernetes deployment with HPA, Prometheus, Grafana | Java 21 · Spring Boot · Python · Flask · DistilBERT · PostgreSQL · Redis · K8s |
+| [voxen](https://github.com/didierdbo/voxen) | Voice-driven RPG engine — TTS, STT, LLM game master | Python · Claude API · ElevenLabs |
 | [machine-learning](https://github.com/didierdbo/machine-learning) | ML notebooks: dog vision (TF), bulldozer regression, MNIST | TF · PyTorch · sklearn |
 | [python-learning](https://github.com/didierdbo/python-learning) | Advanced Python exercises (ZTM course) | Python |
 
